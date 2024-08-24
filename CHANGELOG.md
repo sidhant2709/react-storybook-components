@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/sidhant2709/react-storybook-components/compare/v1.2.0...v1.3.0) (2024-08-24)
+
+
+### Features
+
+* homepage updated in package.json ([75dfc2d](https://github.com/sidhant2709/react-storybook-components/commit/75dfc2dfff2100ec08a29820afd64d94ae67b306))
+
 # [1.2.0](https://github.com/sidhant2709/react-storybook-components/compare/v1.1.0...v1.2.0) (2024-08-24)
 
 
