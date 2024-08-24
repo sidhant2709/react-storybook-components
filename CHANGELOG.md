@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/sidhant2709/react-storybook-components/compare/v1.0.0...v1.1.0) (2024-08-24)
+
+
+### Features
+
+* workflow changes done ([fda3796](https://github.com/sidhant2709/react-storybook-components/commit/fda3796f8f09cc64817f284ac1c2053e7c6e413c))
+* workflow changes done ([f336288](https://github.com/sidhant2709/react-storybook-components/commit/f336288e89da74f44a4e1e676f286274934a03de))
+
 # 1.0.0 (2024-08-24)
 
 
