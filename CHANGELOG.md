@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/sidhant2709/react-storybook-components/compare/v1.1.0...v1.2.0) (2024-08-24)
+
+
+### Features
+
+* build command added ([c981032](https://github.com/sidhant2709/react-storybook-components/commit/c981032507e99acf83c6cb77a164d4d5bcff5739))
+* yml updated ([4d040d4](https://github.com/sidhant2709/react-storybook-components/commit/4d040d4e3aad73b4f906f498b63b4674be3fa2c7))
+
 # [1.1.0](https://github.com/sidhant2709/react-storybook-components/compare/v1.0.0...v1.1.0) (2024-08-24)
 
 
