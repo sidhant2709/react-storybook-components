@@ -91,6 +91,7 @@
     "type": "git",
     "url": "https://github.com/sidhant2709/react-storybook-components"
   },
+  "homepage": "https://sid-react-storybook-components.netlify.app",
   "eslintConfig": {
     "extends": [
       "plugin:storybook/recommended"
